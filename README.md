@@ -2,8 +2,8 @@
 - unity安装及安卓打包配置
 ## 安装java
 - 默认路径安装在C:/Program Files (x86)/Java/jdk1.8.0_144
-- ![]()
-- ![]()
+- ![](https://github.com/FishingFires/unity-Android/blob/master/one.png)
+- ![](https://github.com/FishingFires/unity-Android/blob/master/one.png)
 ## 配置环境变量
 - 在我的电脑属性中打开高级系统设置>环境变量，添加变量名JAVA_HOME以及值C:\Program Files (x86)\Java\jdk1.8.0_144\
 - ![]()
